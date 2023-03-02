@@ -1,0 +1,4 @@
+In git stash apply we can resuse the stash list(i.e the thing/content we have edited or deleted) whereas in git stash pop we
+ can't reuse the deleted content etc. as it permanently deletes it i.e there is a storage container in git stash apply so we 
+can reuse our content or restore the file etc. and it can't be done git stash pop.
+
